@@ -1,0 +1,15 @@
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/bin/Debug/net7.0/aula02_classe_objeto_construtor_metodos
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/bin/Debug/net7.0/aula02_classe_objeto_construtor_metodos.deps.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/bin/Debug/net7.0/aula02_classe_objeto_construtor_metodos.runtimeconfig.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/bin/Debug/net7.0/aula02_classe_objeto_construtor_metodos.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/bin/Debug/net7.0/aula02_classe_objeto_construtor_metodos.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/aula02_classe_objeto_construtor_metodos.csproj.AssemblyReference.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/aula02_classe_objeto_construtor_metodos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/aula02_classe_objeto_construtor_metodos.AssemblyInfoInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/aula02_classe_objeto_construtor_metodos.AssemblyInfo.cs
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/aula02_classe_objeto_construtor_metodos.csproj.CoreCompileInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/aula02_classe_objeto_construtor_metodos.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/refint/aula02_classe_objeto_construtor_metodos.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/aula02_classe_objeto_construtor_metodos.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/aula02_classe_objeto_construtor_metodos.genruntimeconfig.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula02_classe_objeto_construtor_metodos/obj/Debug/net7.0/ref/aula02_classe_objeto_construtor_metodos.dll
