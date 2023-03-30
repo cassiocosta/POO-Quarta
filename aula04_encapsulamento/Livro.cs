@@ -1,9 +1,9 @@
-namespace aula02_classe_objeto_construtor_metodos
+namespace aula04_encapsulamento
 {
     public class Livro
     {
-        public int Id {get; private set;}
         public string Isbn { get; private set; }
+        public int Id {get; private set;}
         public string Titulo { get; private set; }
         public double Preco { get; set; }
 
@@ -16,6 +16,5 @@ namespace aula02_classe_objeto_construtor_metodos
             this.Titulo = titulo;
             this.Preco = preco;
         }
-       
     }
 }

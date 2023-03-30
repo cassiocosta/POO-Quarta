@@ -21,7 +21,9 @@ foreach (var item in repository.GetAll())
     Show($"O livro é: {item.Titulo} e o ISBN é {item.Isbn}");    
 }
 
+var list = repository.GetAll();
 
+list.ForEach(x=>Console.WriteLine(x.Isbn));
 
 
 

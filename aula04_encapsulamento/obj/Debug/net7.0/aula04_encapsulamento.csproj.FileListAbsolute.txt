@@ -1,0 +1,15 @@
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/bin/Debug/net7.0/aula04_encapsulamento
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/bin/Debug/net7.0/aula04_encapsulamento.deps.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/bin/Debug/net7.0/aula04_encapsulamento.runtimeconfig.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/bin/Debug/net7.0/aula04_encapsulamento.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/bin/Debug/net7.0/aula04_encapsulamento.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/aula04_encapsulamento.csproj.AssemblyReference.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/aula04_encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/aula04_encapsulamento.AssemblyInfoInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/aula04_encapsulamento.AssemblyInfo.cs
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/aula04_encapsulamento.csproj.CoreCompileInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/aula04_encapsulamento.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/refint/aula04_encapsulamento.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/aula04_encapsulamento.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/aula04_encapsulamento.genruntimeconfig.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula04_encapsulamento/obj/Debug/net7.0/ref/aula04_encapsulamento.dll
