@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "aula11_interfaces_exercicios/1.0.0": {
+        "runtime": {
+          "aula11_interfaces_exercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula11_interfaces_exercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

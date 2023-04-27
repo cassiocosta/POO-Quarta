@@ -1,0 +1,15 @@
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/bin/Debug/net7.0/aula11_interfaces_exercicios
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/bin/Debug/net7.0/aula11_interfaces_exercicios.deps.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/bin/Debug/net7.0/aula11_interfaces_exercicios.runtimeconfig.json
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/bin/Debug/net7.0/aula11_interfaces_exercicios.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/bin/Debug/net7.0/aula11_interfaces_exercicios.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/aula11_interfaces_exercicios.csproj.AssemblyReference.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/aula11_interfaces_exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/aula11_interfaces_exercicios.AssemblyInfoInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/aula11_interfaces_exercicios.AssemblyInfo.cs
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/aula11_interfaces_exercicios.csproj.CoreCompileInputs.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/aula11_interfaces_exercicios.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/refint/aula11_interfaces_exercicios.dll
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/aula11_interfaces_exercicios.pdb
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/aula11_interfaces_exercicios.genruntimeconfig.cache
+/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula11_interfaces_exercicios/obj/Debug/net7.0/ref/aula11_interfaces_exercicios.dll
