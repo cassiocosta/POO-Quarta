@@ -1,38 +1,25 @@
-﻿
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
-// // Create
-using aula12_ef_continuacao.Data.Repositories;
-using aula12_ef_test.Data;
-using aula12_ef_test.Domain.Entities;
-var db = new DataContext();
+var builder = WebApplication.CreateBuilder(args);
 
-var personRepository = new PersonRepository(db);
+// Add services to the container.
 
-// Console.WriteLine("Inserting a new person using repository person");
-// var person = new Person() { Id = 4, Name = "Vanessa", phoneNumber ="55987987987987" };
-// personRepository.Save(person);
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-listPeople();
+var app = builder.Build();
 
-var personFind = personRepository.GetById(3);
+// Configure the HTTP request pipeline.
+//if (app.Environment.IsDevelopment())
+//{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+//}
 
-Console.WriteLine($"\nId: {personFind.Id} | Nome: {personFind.Name} | Fone: {personFind.phoneNumber}");
+app.MapControllers();
 
-// Console.WriteLine("Inserting a new product");
-// var prod = new Product(){Id=100, Description="Garrafa alcool gel"};
-
-Console.WriteLine("delete person id 3...");
-personRepository.Delete(3);
-
-listPeople();
-
-void listPeople()
-{
-    Console.WriteLine("listing people");
-    var people = personRepository.GetAll();
-
-    foreach (var item in people)
-    {
-        Console.WriteLine($"Id: {item.Id} | Nome: {item.Name} | Fone: {item.phoneNumber}");
-    }
-}
+app.Run();

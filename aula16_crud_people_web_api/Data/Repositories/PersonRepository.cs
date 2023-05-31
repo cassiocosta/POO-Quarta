@@ -11,9 +11,9 @@ namespace aula12_ef_continuacao.Data.Repositories
     public class PersonRepository : IPersonRepository
     {
         private readonly DataContext context;
-        public PersonRepository(DataContext context)
+        public PersonRepository()
         {
-            this.context = context;
+            this.context = new DataContext();
         }
         public IList<Person> GetAll()
         {

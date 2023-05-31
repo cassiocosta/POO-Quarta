@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula12_ef_continuacao/aula12_ef_test.csproj": {}
+    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula16_crud_people_web_api/aula12_ef_test.csproj": {}
   },
   "projects": {
-    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula12_ef_continuacao/aula12_ef_test.csproj": {
+    "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula16_crud_people_web_api/aula12_ef_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula12_ef_continuacao/aula12_ef_test.csproj",
+        "projectUniqueName": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula16_crud_people_web_api/aula12_ef_test.csproj",
         "projectName": "aula12_ef_test",
-        "projectPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula12_ef_continuacao/aula12_ef_test.csproj",
+        "projectPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula16_crud_people_web_api/aula12_ef_test.csproj",
         "packagesPath": "/Users/cassiohcosta/.nuget/packages/",
-        "outputPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula12_ef_continuacao/obj/",
+        "outputPath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/aula16_crud_people_web_api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cassiohcosta/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -47,6 +51,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
