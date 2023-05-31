@@ -18,7 +18,7 @@ public class WeatherForecastController : ControllerBase
         _logger = logger;
     }
 
-    [HttpGet(Name = "GetWeatherForecast")]
+    [HttpGet]
     public IEnumerable<WeatherForecast> Get()
     {
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
@@ -30,9 +30,17 @@ public class WeatherForecastController : ControllerBase
         .ToArray();
     }
     
-    [HttpGet(Name = "Hello")]
-    public string Hello()
-    {
-        return "hello";
-    }
+        [HttpGet("lista")]
+        public IEnumerable<string> GetPessoas()
+        {
+            // Exemplo de lista de pessoas
+            var pessoas = new List<string>
+            {
+                "João",
+                "Maria",
+                "Pedro"
+            };
+
+            return pessoas;
+        }
 }
