@@ -43,7 +43,8 @@ namespace aula12_ef_continuacao.Data.Repositories
 
         public void Update(Person entity)
         {
-            throw new NotImplementedException();
+            context.People.Update(entity);
+            context.SaveChanges();
         }
     }
 }
