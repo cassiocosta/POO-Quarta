@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4f0YIj7HF6DdlpMgsfM5Gmbl7zl//zdQXp5z2EKaxb8nf9dgOxlBLaSrStMPvNG7LkX5LPBUMkImENttQ+BjRw==",
+  "success": true,
+  "projectFilePath": "/Users/cassiohcosta/Documents/wintrab/Ulbra/POO/POO-Quarta/InjecaoDependencia/InjecaoDependencia.csproj",
+  "expectedPackageFiles": [
+    "/Users/cassiohcosta/.nuget/packages/microsoft.aspnetcore.openapi/7.0.1/microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "/Users/cassiohcosta/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/cassiohcosta/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/cassiohcosta/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/cassiohcosta/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/cassiohcosta/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/cassiohcosta/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
